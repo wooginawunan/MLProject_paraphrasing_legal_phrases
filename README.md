@@ -1,0 +1,2 @@
+# MLProject_paraphrasing_legal_phrases
+Machine Learning project
